@@ -8,9 +8,9 @@ Software engineering is an engineering field that applies engineering principles
 Importance - Creation of software application and systems
 
 Identify and describe at least three key milestones in the evolution of software engineering.
-Development of Programming languages 
-The birth of software engineering 
-Rise of Agile methodologies
+1.Development of Programming languages 
+2.The birth of software engineering 
+3.Rise of Agile methodologies
 
 List and briefly explain the phases of the Software Development Life Cycle.
 1. Requirements - the process of identifying user needs and requirements.
